@@ -1,4 +1,4 @@
-function myFunction(arg) {
+function reverseArray(arg) {
 
   var array = arg.split("")
   var arrayLength = array.length
