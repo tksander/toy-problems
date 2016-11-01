@@ -44,6 +44,5 @@ var invertTree = function(root) {
     depthFirstTraverse(node.right)
     return root;
   }
-
   return depthFirstTraverse(root)
 };
