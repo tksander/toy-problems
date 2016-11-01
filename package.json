@@ -1,0 +1,22 @@
+{
+  "name": "toyproblems",
+  "version": "1.0.0",
+  "description": "Algorithms/Toy Problems",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "./node_modules/.bin/http-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tksander/toy-problems.git"
+  },
+  "author": "Tommy Sander",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tksander/toy-problems/issues"
+  },
+  "homepage": "https://github.com/tksander/toy-problems#readme"
+}
