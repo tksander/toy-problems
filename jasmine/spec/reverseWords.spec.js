@@ -1,8 +1,5 @@
 describe("reverseWords", function() {
 
-  beforeEach(function() {
-  });
-
   describe("ReverseWords", function() {
     it("should reverse a string of words", function() {
       var correctResult = 'if into the security recordings you go only pain will you find'
