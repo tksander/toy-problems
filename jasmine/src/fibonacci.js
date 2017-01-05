@@ -1,3 +1,7 @@
+/**
+ * @see http://www.geeksforgeeks.org/dynamic-programming-set-1/
+ */
+
 var fibonacci = function(n) {
    if (n <= 1) {
      return n;
@@ -24,4 +28,15 @@ var fibonacciTabulated = function(n) {
       store[i] = store[ i - 1 ] + store[ i - 2 ];
   }
   return store[n];
+ };
+
+var fibonacciTabulatedConstant = function(n) {
+  var prev = 0;
+  var current = 1;
+  for (var i = 2; i <= n; i++) {
+    var temp = current
+    current = prev + current
+    prev = temp
+  }
+  return current
  };
