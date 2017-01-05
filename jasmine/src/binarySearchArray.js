@@ -14,7 +14,6 @@ var binarySearch = function(originalArray, target) {
       return;
   }
   var searchRecurse = function(innerArray, indexShift) {
-    console.log(innerArray, indexShift)
     if (innerArray.length === 0) {
         console.log('Sorry, number: ' + target + ' not found.');
         return;
