@@ -40,7 +40,7 @@ binarySearchTree.prototype.add  = function(val) {
      }
   }
   depthFirstTraverse(this.root);
-}
+};
 
 /**
  * Print level order traversal of tree
