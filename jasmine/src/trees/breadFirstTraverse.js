@@ -3,6 +3,7 @@
  * @see http://www.geeksforgeeks.org/level-order-tree-traversal/
  */
 
+
 /**
  * Constructor Fuction for Binary Search Tree
  * @method binarySearchTree
@@ -41,6 +42,27 @@ binarySearchTree.prototype.add  = function(val) {
   }
   depthFirstTraverse(this.root);
 };
+
+/**
+ * Queue based level order print
+ * @method printLevelOrderQueue
+ * @returns {undefined}
+ */
+binarySearchTree.prototype.printLevelOrderQueue = function() {
+  var tempNode = this.root;
+  var q = [];
+  while (tempNode !== null) {
+     console.log(tempNode.val);
+
+     if (tempNode.left !== null) {
+       q.push(tempNode.left);
+     }
+     if (tempNode.right !== null) {
+       q.push(tempNode.right);
+     }
+     (q.length > 0) ?  tempNode = q.shift() : tempNode = null
+  }
+}
 
 /**
  * Print level order traversal of tree
