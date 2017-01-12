@@ -35,6 +35,8 @@ var reverseArraySpecial = function(str) {
  * @method reverseSpecial
  * @param {string} - str
  * @return {string}
+ * Space Complexity: Constant - O(1)
+ * Time Complexity: O(n/2)
  */
 var reverseSpecial = function(str) {
     var start = 0;
