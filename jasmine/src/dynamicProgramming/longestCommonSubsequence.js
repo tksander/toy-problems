@@ -14,4 +14,10 @@
  * Examples:
  * LCS for input Sequences “ABCDGH” and “AEDFHR” is “ADH” of length 3.
  * LCS for input Sequences “AGGTAB” and “GXTXAYB” is “GTAB” of length 4.
+ *
  */
+
+// Naive solution
+// generate power set for each string
+// compare power sets and find max length
+
