@@ -30,7 +30,6 @@
 var quickSort = function(arr) {
   function recurseSort(low, high) {
     if (low < high) {
-      debugger
       //  select last element as pivot
       var pivot = arr[high];
       // represents the hightest number lower than than the high element
