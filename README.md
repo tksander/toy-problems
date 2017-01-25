@@ -9,39 +9,41 @@ To run Jasmine test suite, run either of the following:
 _Note: Note all Toy Problems include unit tests. If unit tests do not exist, copy and paste the
 Javascript file into the brower's console and test/run manually._
 
-#### Contents
-- [Coding Problem Resources](#resources)
+### Contents
 - [Javascript Problems](#javascript)
-
-#### Resources
-- [LeetCode](https://leetcode.com/)
-- [Interview Cake](https://interviewcake.com)
-- [Geeks For Geeks](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
+- [Coding Problem Resources](#resources)
+  - [Dynamic Programming](#dynamic-programming)
+  - [Graphs](#graphs)
+  - [Grid](#grid)
+  - [Linked Lists](#linked-lists)
+  - [Sorting and Searching](#sorting-and-searching)
+  - [Strings and Array](#strings-and-arrays)
+  - [Trees](#trees)
 
 #### Javascript
 
-*Dyanmic Programming:*
+##### Dynamic Programming
 - [X] Longest Increasing Subsequences
 - [X] Longest Common Subsequences
 - [X] Ugly Numbers
 - [X] Fibonnaci Sequence
 
-*Graphs:*
+##### Graphs
 
-*Grid:*
+##### Grid
 - [X] Island Perimeter
 
-*Linked Lists:*
+##### Linked Lists
 - [X] Delete Node
 - [X] Union and Intersection of two Linked Lists
 
-*Sorting and Searching:*
+##### Sorting and Searching
 - [X] Bucket Sort
 - [ ] Merge Sort
 - [X] Quick Sort
 - [X] Sort a Rotated Array
 
-*Sorting and Searching:*
+##### Strings and Arrays
 - [X] Binary Search Array
 - [X] Sort Chararacters by Frequency
 - [X] Fizzbuzz!
@@ -51,11 +53,16 @@ Javascript file into the brower's console and test/run manually._
 - [X] Reverse Word
 - [X] Shuffle In Place
 
-*Trees:*
+##### Trees
 - [X] Breadth First Traversal
 - [X] Binary Tree to Linked List
 - [X] In Order Traversal
 - [X] Invert a Binary Tree
 - [X] Find 2nd Largest Element in Binary Tree
 
+
+#### Resources
+- [LeetCode](https://leetcode.com/)
+- [Interview Cake](https://interviewcake.com)
+- [Geeks For Geeks](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
 
