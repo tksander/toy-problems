@@ -13,3 +13,45 @@ Resources:
 - [LeetCode](https://leetcode.com/)
 - [Interview Cake](https://interviewcake.com)
 - [Geeks For Geeks](http://www.geeksforgeeks.org/top-algorithms-and-data-structures-for-competitive-programming/)
+
+#### Javascript
+
+*Dyanmic Programming:*
+- [X] Longest Increasing Subsequences
+- [X] Longest Common Subsequences
+- [X] Ugly Numbers
+- [X] Fibonnaci Sequence
+
+*Graphs:*
+
+*Grid:*
+- [X] Island Perimeter
+
+*Linked Lists:*
+- [X] Delete Node
+- [X] Union and Intersection of two Linked Lists
+
+*Sorting and Searching:*
+- [X] Bucket Sort
+- [] Merge Sort
+- [X] Quick Sort
+- [X] Sort a Rotated Array
+
+*Sorting and Searching:*
+- [X] Binary Search Array
+- [X] Sort Chararacters by Frequency
+- [X] Fizzbuzz!
+- [X] Move Zeroes
+- [X] Reverse a String
+- [X] Reverse an array without affecting special characters
+- [X] Reverse Word
+- [X] Shuffle In Place
+
+*Trees:*
+- [X] Breadth First Traversal
+- [X] Binary Tree to Linked List
+- [X] In Order Traversal
+- [X] Invert a Binary Tree
+- [X] Find 2nd Largest Element in Binary Tree
+
+

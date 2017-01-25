@@ -37,6 +37,7 @@ var btt = function(tree) {
 };
 
 /**
+ * Creates a node in a binary tree
  * @method Node
  */
 var Node = function(val) {
@@ -46,9 +47,9 @@ var Node = function(val) {
 }
 
 var a = new Node(1);
- a.left = new Node(2);
- a.left.left = new Node(3);
- a.left.right = new Node(4);
- a.right = new Node(5);
- a.right.left = new Node(6);
+a.left = new Node(2);
+a.left.left = new Node(3);
+a.left.right = new Node(4);
+a.right = new Node(5);
+a.right.left = new Node(6);
 

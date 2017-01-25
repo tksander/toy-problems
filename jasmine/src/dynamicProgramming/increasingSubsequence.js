@@ -30,17 +30,10 @@
  * 6
  */
 
-// 0 8 7 6 4 12
-//
-// 0 8 -> 0 8 12
-// 0 7 -> 0 7 12
-// 0 6 -> 0 6 12
-// 0 4 -> 0 4 12
-// 0 12
-// 8 12
 
-// Naive solution - brute-force
-
+/**
+ * @method increasingSubsequence
+ */
 var increasingSubsequence = function(numbers) {
   var maxCount;
   for (var i = 0; i < numbers.length; i++) {
