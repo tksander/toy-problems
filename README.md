@@ -52,7 +52,7 @@ Javascript file into the brower's console and test/run manually._
 - [X] Reverse an array without affecting special characters
 - [X] Reverse Word
 - [X] Shuffle In Place
-- [ ] All Possible Sorted Arrays
+- [X] All Possible Sorted Arrays
 
 ##### Trees
 - [X] Breadth First Traversal

@@ -21,8 +21,8 @@
 
 
 /**
- * Time Complexity: O(n^2) - algorithm iterates over entire array once per each element
- * Space Complexity: O(m) - where m is the number of resulting arrays
+ * Time Complexity: O(m^n) - algorithm iterates over entire array once per each element
+ * Space Complexity: O(m^n) - where m is the number of resulting arrays
  * @method allPossibleSortedArrays
  * @param {array} - arr1
  * @param {array} - arr2
@@ -32,22 +32,18 @@ var allPossibleSortedArrays = function(arrA, arrB) {
   var aLength = arrA.length;
   var bLength = arrB.length;
   var innerRecurse = function(arr, aCurrent, bCurrent) {
-    debugger
+
     if (bCurrent > bLength) {
       return;
     }
-    // iterate while length left in b
+
     while (bCurrent <= bLength - 1) {
-      // pick from a - if b just picked and a has length left
       if (arr.length % 2 === 0 && aCurrent <= aLength - 1) {
-        // if start of picking or current A value is greater than b value
         if (arrA[aCurrent] > arr[arr.length - 1] || arr.length === 0) {
-          // push to string build
           arr.push(arrA[aCurrent]);
         }
         aCurrent++;
-      } else { // pick from b
-         // if B value greater than previous a value
+      } else {
          if (arrB[bCurrent] > arr[arr.length - 1]) {
            arr.push(arrB[bCurrent]);
            resultArr.push(arr.slice());
