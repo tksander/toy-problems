@@ -11,7 +11,6 @@ Javascript file into the brower's console and test/run manually._
 
 ### Contents
 - [Javascript Problems](#javascript)
-- [Coding Problem Resources](#resources)
   - [Dynamic Programming](#dynamic-programming)
   - [Graphs](#graphs)
   - [Grid](#grid)
@@ -19,8 +18,9 @@ Javascript file into the brower's console and test/run manually._
   - [Sorting and Searching](#sorting-and-searching)
   - [Strings and Array](#strings-and-arrays)
   - [Trees](#trees)
+- [Coding Problem Resources](#resources)
 
-#### Javascript
+### Javascript
 
 ##### Dynamic Programming
 - [X] Longest Increasing Subsequences
@@ -52,6 +52,7 @@ Javascript file into the brower's console and test/run manually._
 - [X] Reverse an array without affecting special characters
 - [X] Reverse Word
 - [X] Shuffle In Place
+- [ ] All Possible Sorted Arrays
 
 ##### Trees
 - [X] Breadth First Traversal
