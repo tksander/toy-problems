@@ -18,6 +18,7 @@ Javascript file into the brower's console and test/run manually._
   - [Sorting and Searching](#sorting-and-searching)
   - [Strings and Array](#strings-and-arrays)
   - [Trees](#trees)
+  - [Misc](#mis)
 - [Coding Problem Resources](#resources)
 
 ### Javascript
@@ -60,6 +61,9 @@ Javascript file into the brower's console and test/run manually._
 - [X] In Order Traversal
 - [X] Invert a Binary Tree
 - [X] Find 2nd Largest Element in Binary Tree
+
+##### Misc
+- [X] Hamming Distance
 
 
 #### Resources
