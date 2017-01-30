@@ -23,7 +23,7 @@ var findNthDigit = function(n) {
   var rawCount = 9;
   var powTen = 0;
 
-  // build number of digits
+  // Find the number of digits the nth number has
   while (sum < n) {
    powTen++;
    var multiplier10 = Math.pow(10, powTen);

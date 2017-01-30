@@ -64,6 +64,7 @@ Javascript file into the brower's console and test/run manually._
 
 ##### Misc
 - [X] Hamming Distance
+- [X] Nth Digit
 
 
 #### Resources
