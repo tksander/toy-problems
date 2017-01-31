@@ -37,6 +37,8 @@ Javascript file into the brower's console and test/run manually._
 ##### Linked Lists
 - [X] Delete Node
 - [X] Union and Intersection of two Linked Lists
+- [X] Reverse Linked List
+
 
 ##### Sorting and Searching
 - [X] Bucket Sort
@@ -65,6 +67,7 @@ Javascript file into the brower's console and test/run manually._
 ##### Misc
 - [X] Hamming Distance
 - [X] Nth Digit
+- [X] Count Primes
 
 
 #### Resources
