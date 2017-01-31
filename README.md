@@ -56,6 +56,7 @@ Javascript file into the brower's console and test/run manually._
 - [X] Reverse Word
 - [X] Shuffle In Place
 - [X] All Possible Sorted Arrays
+- [X] Find All Numbers Disappeared in an Array
 
 ##### Trees
 - [X] Breadth First Traversal
