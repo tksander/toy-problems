@@ -56,7 +56,8 @@ Javascript file into the brower's console and test/run manually._
 - [X] Reverse Word
 - [X] Shuffle In Place
 - [X] All Possible Sorted Arrays
-- [X] Find All Numbers Disappeared in an Array
+- [ ] Find All Numbers Disappeared in an Array
+- [ ] Longest Substring Without Repeating Characters
 
 ##### Trees
 - [X] Breadth First Traversal
@@ -64,6 +65,7 @@ Javascript file into the brower's console and test/run manually._
 - [X] In Order Traversal
 - [X] Invert a Binary Tree
 - [X] Find 2nd Largest Element in Binary Tree
+- [X] Max Depth of Binary Tree
 
 ##### Misc
 - [X] Hamming Distance
