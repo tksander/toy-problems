@@ -57,7 +57,9 @@ Javascript file into the brower's console and test/run manually._
 - [X] Shuffle In Place
 - [X] All Possible Sorted Arrays
 - [ ] Find All Numbers Disappeared in an Array
-- [ ] Longest Substring Without Repeating Characters
+- [X] Longest Substring Without Repeating Characters
+- [ ] Longest Common Prefix
+- [X] Longest Palindrome
 
 ##### Trees
 - [X] Breadth First Traversal
