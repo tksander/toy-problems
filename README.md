@@ -68,6 +68,7 @@ Javascript file into the brower's console and test/run manually._
 - [X] Invert a Binary Tree
 - [X] Find 2nd Largest Element in Binary Tree
 - [X] Max Depth of Binary Tree
+- [X] Max Sum Path of Binary Tree
 
 ##### Misc
 - [X] Hamming Distance

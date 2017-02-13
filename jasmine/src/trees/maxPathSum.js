@@ -21,10 +21,12 @@
  *
  */
 
-    // check which child yields greater (only store if greater than 0)
-    // keep the child with greater yield
-    // check if l + r + n is greater than current greatest
 
+/**
+ * @method maxPathSum
+ * @param {object} root - Root of binary tree
+ * @returns {number} greatest sum for a contiguous path
+ */
 var maxPathSum = function(root) {
   var max = 0
   var current = 0
