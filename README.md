@@ -60,6 +60,7 @@ Javascript file into the brower's console and test/run manually._
 - [X] Longest Substring Without Repeating Characters
 - [ ] Longest Common Prefix
 - [X] Longest Palindrome
+- [X] Stock Buy Sell
 
 ##### Trees
 - [X] Breadth First Traversal
