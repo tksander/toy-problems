@@ -13,7 +13,9 @@
 
 
 /*
- * Solve for buy and sell only once
+ * @method maxProfit
+ * Time complexity: O(n)
+ * Space complexity: O(n/2)
  */
 var maxProfit = function(arr) {
     var min = arr[0]
